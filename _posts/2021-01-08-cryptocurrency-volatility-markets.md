@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Cryptocurrency Volatility Markets
+title: >
+ [Paper]Cryptocurrency Volatility Markets
 ---
 
 ## Introduction

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--The data science revolution
+title: >
+    [Paper]The data science revolution
 ---
 
 Data science informs rather than replaces traditional investment research. It is also important to be sensitive to data privacy concerns and regulatory and legislative issues.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--On the Physiology of Investment Biases
+title: >
+ [Paper]On the Physiology of Investment Biases
 ---
 
 ## Abstract

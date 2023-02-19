@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--A Backtesting Protocol in the Era of Machine Learning
+title: >
+ [Paper]A Backtesting Protocol in the Era of Machine Learning
 ---
 
 ## Abstract

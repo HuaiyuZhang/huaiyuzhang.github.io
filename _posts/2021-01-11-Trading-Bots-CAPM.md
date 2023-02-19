@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Did Trading Bots Resurrect the CAPM?
+title:>
+ [Paper]Did Trading Bots Resurrect the CAPM?
 ---
 
 Automated trading causes increasing intra-day correlation of returns. The trading bots increases the quoting activities and cause stocks' returns to align with the market. 

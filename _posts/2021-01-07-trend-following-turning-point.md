@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Breaking Bad Trends
+title: >
+ [Paper]Breaking Bad Trends
 ---
 
 ## abstract

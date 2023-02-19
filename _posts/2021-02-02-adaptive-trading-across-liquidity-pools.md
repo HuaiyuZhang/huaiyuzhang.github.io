@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Adaptive trading strategies across liquidity pools
+title: >
+    [Paper]Adaptive trading strategies across liquidity pools
 ---
 
 ## Introduction

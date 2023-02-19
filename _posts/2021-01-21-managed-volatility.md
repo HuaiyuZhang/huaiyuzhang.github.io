@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Learning from a decade of managed volatility
+title: >
+ [Paper]Learning from a decade of managed volatility
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Tail risk hedging
+title: >
+ [Paper]Tail risk hedging
 ---
 
 ## Introduction

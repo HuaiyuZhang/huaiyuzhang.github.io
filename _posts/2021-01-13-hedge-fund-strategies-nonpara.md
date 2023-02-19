@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Hedge Fund Strategies A non-Parametric Analysis
+title: >
+ [Paper]Hedge Fund Strategies A non-Parametric Analysis
 ---
 
 ## Abstract

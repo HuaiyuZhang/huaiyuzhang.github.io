@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Forecasting US Equity Market Returns using a Hybrid Machine Learning - Time Series Approach
+title: >
+ [Paper]Forecasting US Equity Market Returns using a Hybrid Machine Learning - Time Series Approach
 ---
 
 ## Abstract

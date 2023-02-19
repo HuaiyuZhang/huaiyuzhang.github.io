@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--AI in asset management
+title: >
+ [Paper]AI in asset management
 ---
 
 ## Portfolio management

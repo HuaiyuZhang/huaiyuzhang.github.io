@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Bootstrap--Why It Works
+title: >
+    [Stat]Bootstrap: Why It Works
 ---
 
 Bootstrap is one of the most ingenious innovation of statistics in the 20th century, especially prosperous with the aid of growing computation power. We heard and use it very often, but, why it works? This post will try to explore a reason behind the curtain. 

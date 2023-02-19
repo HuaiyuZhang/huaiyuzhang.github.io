@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Linux Commands
+title: >
+    [Misc]Unix Commands
 ---
 
 - `cd -`: return to the last working directory

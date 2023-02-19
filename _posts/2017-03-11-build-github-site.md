@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Build github.io with Jekyll
+title: >
+   [Misc]Build github.io with Jekyll
 ---
 
 1. Create a new repo called username.github.io

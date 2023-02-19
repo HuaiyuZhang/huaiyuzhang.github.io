@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Transformer
+title: >
+    [Paper]Transformer
 ---
 
 The transformer is still the state-of-the-art NLP architecture as of the beginning of 2021. This paper was published back in 2017. This article will take some notes on the paper.

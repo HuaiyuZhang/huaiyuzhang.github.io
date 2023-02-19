@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Reading--Dynamic Risk Management
+title: >
+ [Paper Reading]Dynamic Risk Management
 ---
 
 

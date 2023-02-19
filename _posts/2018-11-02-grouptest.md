@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Group testing
+title: >
+    [Stat]Group testing
 ---
 A common practice for laboratories testing procedure is pooling the specimens together and testing them as a group. Due to the low prevalence of the diseases, such as HIV and hepatitis C, finding negative result for a group means that all the samples in this group are negative (given the test has high specificity and sensitivity, which is usually the case). 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Unix How To--Count the number of files
+title: >
+    [Misc]Unix Count the number of files
 ---
 
 ## Count the files with specific patterned names

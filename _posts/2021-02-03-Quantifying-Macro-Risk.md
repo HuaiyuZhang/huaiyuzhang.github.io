@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Reading--Quantifying Macroeconomic Risk
+title: [Paper Reading]Quantifying Macroeconomic Risk
 ---
 
 Multi-factor models decompose asset returns into systematic (factor) and idiosyncratic (specific) components. Fundamental factor models usually include a market factor, industry/country factors, and style factors. The fundamental models lack a view on macroeconomic risk, such as that from interest rate, credit, commodity, and other exposures. The challenge of incorporating macro variables in factor models is that macro factors are often correlated. This paper proposes a method for projecting fundamental factor returns onto macroeconomic factor returns and reformulating the fundamental risk model in terms of macro factors.

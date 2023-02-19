@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Tricks
+title: Linux Commands
 ---
 
 - `cd -`: return to the last working directory

@@ -31,4 +31,3 @@ Separate yourself from your story: give the story a name; view the story from so
 - aligned action (Gentle discipline; take self-responsibility)
 
 
-

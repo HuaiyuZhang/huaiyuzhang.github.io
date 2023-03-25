@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a father/statistician/machine learning scientist/guitar hobbyist.
 
-## Personal Philosiphy
+## Personal Philosophy
 I ardently advocate for intellectual honesty, as it is the cornerstone of rational thought and academic integrity. It implores us to acknowledge our biases, embrace differing perspectives, and willingly admit when we are mistaken. It fosters a world where truth and knowledge can flourish, enabling collaborative growth and collective wisdom.
 
 ## Professional Experience

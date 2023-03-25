@@ -1,8 +1,3 @@
----
-layout: post
-title: MathJax with kramdown
----
-
 This is a inline formula \\( x^2 - 2x = 2 \\)
 
 And this is a displayed formula 

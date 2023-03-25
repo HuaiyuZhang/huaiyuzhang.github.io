@@ -11,11 +11,11 @@ I ardently advocate for intellectual honesty, as it is the cornerstone of ration
 
 ## Professional Experience
 
-- Applied Scientist @Uber. 10/2021-present. Machine learning in identity, ATO, device, etc.
+- Applied Scientist @Uber, 10/2021-present. Machine learning in identity, ATO, device, etc.
 
-- Quantitative Analytics Senior @Freddie Mac. 1/2020-10/2021. Credit risk modeler covering mortgage delinquency/default/loss predictions, capital calculator, stress testing, Monte Carlo, CECL, etc. 
+- Quantitative Analytics Senior @Freddie Mac, 1/2020-10/2021. Credit risk modeler covering mortgage delinquency/default/loss predictions, capital calculator, stress testing, Monte Carlo, CECL, etc. 
 
-- Data Science Internship @Liberty Mutual Insurance Group 6/2019-8/2019. Corporate insurance machine learning.
+- Data Science Internship @Liberty Mutual Insurance Group, 6/2019-8/2019. Corporate insurance machine learning.
 
 
 ## Education

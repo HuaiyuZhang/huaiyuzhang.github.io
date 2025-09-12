@@ -31,11 +31,16 @@ github:
 # twitter:
 #   username:  # change to your Twitter username
 
+# Author information
+author:
+  name: Huaiyu Zhang
+  email: benbenzhangai@gmail.com
+
 # social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Huaiyu Zhang
-  email: benbenzhangai@gmail.com # change to your email address
+  # name: Huaiyu Zhang
+  # email: benbenzhangai@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage

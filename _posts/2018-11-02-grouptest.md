@@ -3,6 +3,7 @@ title: Group testing
 date: 2018-11-02
 categories: [Statistics, Statistical Test]
 tags: [group test]     # TAG names should always be lowercase
+author: Huaiyu Zhang
 ---
 
 A common laboratory practice is to pool specimens and test them as a group. For diseases with low prevalence, such as HIV or hepatitis C, a negative result for the group typically indicates that all samples within it are negative, assuming the test has high specificity and sensitivity, which is usually the case.

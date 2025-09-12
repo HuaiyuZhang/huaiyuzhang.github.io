@@ -11,6 +11,6 @@ For example, consider a blood donation center screening 200 samples for HIV. The
 
 **What’s the benefit?** Reduced costs and faster results.
 
-A key consideration in group testing is determining the optimal number of groups and their sizes. Dr. Christopher Bilder has conducted extensive research in this area, including identifying optimal group configurations. For more details and advanced applications, explore his [research papers](http://www.chrisbilder.com/grouptesting/).
+A key consideration in group testing is determining the optimal number of groups and their sizes. Dr. Christopher Bilder has conducted extensive research in this area, including identifying optimal group configurations. For more details and advanced applications, explore his [research papers](https://www.chrisbilder.com/grouptesting/).
 
 
